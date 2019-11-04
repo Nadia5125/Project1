@@ -1,0 +1,107 @@
+# Project1
+
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <meta charset="utf-8">
+    <title>First class html Practice</title>
+</head>
+<body>
+    <header>
+    <h3>First class HTML Practice</h3>
+    </header>
+    <br>      
+          
+    <img src="https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500">
+    <br>
+    <figuration>Butterfly at night</figuration>
+    <br><br>      
+    <h3>Below is the link that will open different styles</h3>
+    <br>
+    <a href="https://images.unsplash.com/photo-1541233349642-6e425fe6190e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"  target="_blank">Bridge to the Future. Open new tab</a>
+    <br>
+    <strong><a  href="https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823__340.jpg" target="_blank">Beutifull fall scenery. This is a bold link</a></strong>
+    <br>
+    <a  href="#">Blue Ocean. PlaceHolder link goes no where</a>     
+         
+     <br><br>     
+     <hr>
+     <br>
+     <h3>Bonus</h3>
+     <br>
+     <h3>ORDER LIST: Grilled cheese recipe!</h3>  
+     <h4>INGREDIENTS</h4>
+    <ul>      
+        <li>2 slices bread, either soft sandwich squares or large peasant-style slices, not more than 1/2 inch thick</li>
+        <br>
+        <li>Butter</li>
+        <br>
+        <li>Mayonnaise</li>
+        <br>
+        <li>1 to 2 ounces grated cheddar (or other cheese), depending on size of bread</li>
+    </ul> 
+
+    <br><br>
+    <h3>PREPARATION</h3>  
+    <ol>
+        <li>Heat a heavy pan over medium-low heat.</li>
+        <br>
+        <li>Thinly spread one side of each bread slice with butter. Spread the other side of each slice with mayonnaise and place the bread, mayonnaise-side-down, in the pan. Divide the cheese evenly on top of the buttered slices. Adjust the heat so the bread sizzles gently.</li>
+        <br>
+        <li>When the cheese is about halfway melted, use a spatula to flip one slice over on top of the other, and press lightly to melt. Keep turning the sandwich, pressing gently, until the sandwich is compact, both sides are crusty, and the cheese is melted. Serve immediately</li>
+        <br>
+    <li>Time to eat and enjoy!!</li>      
+    </ol>
+    <br><br>
+    <hr>
+    <!--Table start here--> 
+    <table style="width: 100%">
+        
+        <h3>Table: Enimal class and Name</h3>
+        <br><br>
+        <tr>
+            <th>Animal Class</th>
+            <th>Animal Name</th>       
+        </tr> 
+       
+        <tr>
+           <td>Caine</td>
+           <td>Dog</td>       
+        </tr>      
+          
+        <tr>
+           <td>Feline</td>
+           <td>Tiger</td>       
+        </tr>  
+    
+        <tr>
+           <td>Caine</td>
+           <td>Wolf</td>
+        </tr>    
+          
+        <tr>        
+           <td>Feline</td>
+           <td>Lion</td>       
+        </tr> 
+        </table>
+        <!--Table end-->
+        <br><br>
+        <hr>
+        <h3>Unordered list</h3>
+        <ul>
+           <li>Lana Del Rey</li>
+           <li>Ac/Dc</li>
+           <li>Dream by Dolores O'Riordan</li>
+           <li>The Cars</li>
+           <li>Shade</li>
+        </ul>
+        <br><br>
+        <hr>
+        <h3>Embed: Youtube</h3>
+        <br>
+        <P>Another night out, another dance floor_Move for me, I'll move for you</P>
+        <ifram href="https://www.youtube.com/watch?v=Yam5uK6e-bQ" ><iframe width="560" height="315" src="https://www.youtube.com/embed/atFTgQOF-cU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
+
+</body>    
+</html>
